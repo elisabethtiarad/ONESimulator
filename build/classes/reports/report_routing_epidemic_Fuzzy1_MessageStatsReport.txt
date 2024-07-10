@@ -1,0 +1,22 @@
+Message stats for scenario report_routing_epidemic_Fuzzy1
+sim_time: 4320.1000
+created: 149
+started: 3233
+relayed: 1511
+aborted: 1721
+dropped: 791
+removed: 0
+delivered: 35
+delivery_prob: 0.2349
+response_prob: 0.0000
+overhead_ratio: 42.1714
+latency_avg: 1790.0314
+latency_med: 1673.1000
+hopcount_avg: 3.1143
+hopcount_med: 3
+buffertime_avg: 1399.5312
+buffertime_med: 1366.3000
+rtt_avg: NaN
+rtt_med: NaN
+nilai_max_hopcount: 6
+list_hopcount: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6]
